@@ -44,7 +44,7 @@ body {
 /*header section*/
 .hero_area {
   height: calc(100vh - 30px);
-  background: -webkit-gradient(linear, left top, right top, color-stop(100%, #13003d));
+  background: -webkit-gradient(linear, left top, right top, color-stop(100%, #020105));
   background: linear-gradient(to right, #170137 100%);
   display: -webkit-box;
   display: -ms-flexbox;
@@ -325,13 +325,13 @@ a:focus {
   background-repeat: no-repeat;
   background-size: 14px;
   background-position: center;
-  background-color: #1cbbb4;
+  background-color: #30323b;
   margin: 2px;
 }
 
 .slider_section .carousel_btn-container .carousel-control-prev:hover,
 .slider_section .carousel_btn-container .carousel-control-next:hover {
-  background-color: #ff4f5a;
+  background-color:#ff4f5a;
 }
 
 .slider_section .carousel_btn-container .carousel-control-prev {
@@ -430,7 +430,7 @@ a:focus {
 }
 
 .category_section {
-  background-color: #1cbbb4;
+  background-color: #000000;
   color: #ffffff;
   text-align: center;
 }
@@ -593,6 +593,8 @@ a:focus {
 
 .client_section .detail-box {
   text-align: center;
+
+  background-color: #4f4d4d;
   margin: 25px 35px;
   padding: 45px 65px 35px 65px;
   -webkit-box-shadow: 0px 0px 20px 0 rgba(0, 0, 0, 0.2);
@@ -601,11 +603,13 @@ a:focus {
 
 .client_section .detail-box h4 {
   font-weight: bold;
+  color:#fdfeff
 }
 
 .client_section .detail-box p {
   margin-top: 15px;
   margin-bottom: 25px;
+  color:#fdfeff
 }
 
 .client_section .carousel-control-prev,
