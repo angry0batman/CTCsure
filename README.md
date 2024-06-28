@@ -1,3 +1,7 @@
+**This platform is designed to assist users in analyzing their readiness for job placements in the tech industry. Key features include development score evaluation, competitive programming profile assessment, DSA score analysis, and resume score check. Additionally, it offers advanced placement insights, package predictions, and an AI chatbot for user support. By integrating machine learning algorithms with a web interface built using HTML, CSS, Javascript, and Streamlit, the platform provides detailed performance insights and realistic job placement predictions, helping users improve their skills and set achievable career goals.**
+
+
+
 ![image](https://github.com/angry0batman/CTCsure/assets/133705046/3a9298fe-8937-4141-816e-82342cfce759)
 
 Visit my website-https://ctc-sure.vercel.app
